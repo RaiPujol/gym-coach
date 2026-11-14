@@ -1,0 +1,16 @@
+{
+  "name": "Plate Coach",
+  "short_name": "Plate Coach",
+  "description": "Evidence-based gym coach: weekly split, guided sessions, progress tracking.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#111317",
+  "theme_color": "#C3342A",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
