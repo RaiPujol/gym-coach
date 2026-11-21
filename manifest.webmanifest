@@ -1,16 +1,29 @@
 {
-  "name": "Plate Coach",
-  "short_name": "Plate Coach",
-  "description": "Evidence-based gym coach: weekly split, guided sessions, progress tracking.",
+  "name": "Calisthenics Coach",
+  "short_name": "Calisthenics",
+  "description": "Bodyweight training coach: a daily sheet of 6 exercises with pictures, progressions and tracking.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#111317",
-  "theme_color": "#C3342A",
+  "theme_color": "#E85A4E",
   "icons": [
-    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
-    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
   ]
 }
